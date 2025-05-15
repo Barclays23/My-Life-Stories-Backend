@@ -3,6 +3,8 @@ node_modules/
 
 # Environment variables
 .env
+firebase/serviceAccountKey.json
+
 
 # Logs
 logs
